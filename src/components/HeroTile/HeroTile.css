@@ -1,0 +1,32 @@
+.tile-section {
+    background-color: #fcfcfd;
+}
+
+.hero-tile {
+    background-color: #fff;
+    box-shadow: 0 0 50px rgb(0 0 0 / 7%);
+}
+
+.border-right {
+    border-right: 3px solid #eee;
+}
+
+.health-card {
+    background-color: #31d0c4;
+    border-radius: 10px;
+}
+
+.health-card .timetable-btn {
+    background: inherit;
+    border: none;
+    font-family: 'Poppins';
+    margin-top: 14px;
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+}
+
+.timetable-btn:hover{
+    color: #0e204d;
+    transition: 0.3s;
+}

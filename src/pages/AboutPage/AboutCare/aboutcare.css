@@ -1,0 +1,25 @@
+.care-section {
+    background-image: url("/public/images/about-3.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    padding: 100px 0px 0px 0px;
+}
+
+.check-icon {
+    background-color: #31d0c4;
+    color: #0e204d;
+    border-radius: 50px;
+    padding: 0px 4px 1px 5px;
+    font-size: 19px;
+}
+
+.tile-overlap {
+    margin-bottom: -50px;
+}
+
+.health-care {
+    background-color: #3851A2;
+    padding: 120px 0px 70px 0px;
+}

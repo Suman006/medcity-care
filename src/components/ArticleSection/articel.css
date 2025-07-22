@@ -1,0 +1,22 @@
+.articel-section {
+    background-color: #edfbfa;
+}
+
+.article-pill {
+    background: #31d0c4;
+    border: none;
+    padding: 10px 15px;
+    font-family: 'Poppins';
+    color: white;
+    font-size: 17px;
+    letter-spacing: 0.4px;
+    border-radius: 0px 15px 15px 15px;
+    position: absolute;
+    bottom: -17px;
+    font-weight: 500;
+    left: 30px;
+}
+
+.gap{
+    margin-top: 10px !important;
+}

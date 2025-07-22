@@ -1,0 +1,10 @@
+.about-section  {
+    background-color: #fcfcfd;
+}
+
+.number-head {
+    color: #2d4990;
+    font-weight: 400 !important;
+    font-family: 'Poppins' !important;
+    font-size: clamp(60px, 8vw, 122px) !important;
+}

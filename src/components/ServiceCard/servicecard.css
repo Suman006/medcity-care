@@ -1,0 +1,23 @@
+.appoint-card {
+    padding: 30px;
+    position: relative;
+}
+
+.appoint-card-hover:hover {
+    box-shadow: rgba(145, 136, 136, 0.3) 0px 0px 30px !important;
+    background-color: #fff;
+    border-radius: 0px 0px 8px 8px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.appoint-card-hover img {
+    transition: transform 300ms linear;
+    border-radius: 10px;
+}
+
+.appoint-card-hover:hover img {
+    transform: scale(1.1);
+    transition: all 300ms linear 0ms;
+    border-radius: 10px;
+}

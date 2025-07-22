@@ -1,0 +1,9 @@
+.service-page-hero-section {
+    background-image: url("/public/images//service-hero.jpg");
+}
+
+.more-about {
+    border: 2px solid #0e204d;
+    background-color: inherit;
+    color: #0e204d;
+}

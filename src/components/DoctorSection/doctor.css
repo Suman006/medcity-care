@@ -1,0 +1,9 @@
+.blue-btn {
+    background-color: #0e204d !important;
+    color: #fff;
+}
+
+.blue-btn:hover {
+    background: #31d0c4 !important;
+    transition: 0.3s;
+}

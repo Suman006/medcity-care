@@ -1,0 +1,20 @@
+.service-value-section {
+    background-image: url("/public/images/service-value-banner.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding: 100px 0px;
+}
+
+.hr-line {
+    width: 115px;
+    height: 2px;
+    background-color: #0e204d;
+    margin-top: 16px;
+
+}
+
+.value-card-top {
+    margin-top: 100px;
+}

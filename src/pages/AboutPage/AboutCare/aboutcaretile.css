@@ -1,0 +1,34 @@
+.care-tile {
+    background-color: #fff;
+    box-shadow: 0 0 15px 0 rgba(14, 32, 77, 0.1);
+    padding: 30px 45px 30px 30px;
+    border-radius: 12px;
+}
+
+.number {
+    color: #eaedf5 !important;
+    font-weight: 600 !important;
+    transform: scale(1.5);
+}
+
+.care-btn {
+    background-color: inherit;
+    color: #0e204d;
+    padding: 0px;
+    font-family: "poppins";
+    font-size: 16px;
+    border: none;
+    font-weight: 600;
+
+}
+
+.care-btn:hover {
+    color: #31d0c4;
+    transition: 0.3s;
+}
+
+.care-icon {
+    margin-left: 7px;
+    vertical-align: middle;
+    font-size: 19px;
+}

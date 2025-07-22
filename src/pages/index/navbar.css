@@ -1,0 +1,130 @@
+/* Navbar style start */
+
+.top-nav-container {
+    background: #4893ff;
+    padding: 11px;
+    color: white;
+}
+.nav-background {
+    margin: 10px 0px 10px 0px;
+    background: white;
+}
+.small-icon {
+    color: white;
+    font-size: 16px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+span.nav-small-text {
+    font-size: 16px;
+    font-family: "Poppins" sans-serif;
+}
+
+.form-btn-2 {
+    display: none !important;
+}
+
+.form-btn-1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav-flex-large {
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-item {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500 !important;
+    line-height: 19px;
+    color: #0c2134 !important;
+    padding: 12px 20px 12px 20px !important;
+}
+
+.brand-logo {
+    margin-top: -8px !important;
+}
+
+.nav-btn {
+    background: none;
+    border: none;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.2px;
+}
+
+.nav-btn-2 {
+    background: none;
+    color: #0c2134;
+    font-weight: 600;
+    padding: 8px 30px;
+    font-family: "Poppins" sans-serif;
+    font-size: 17px;
+    line-height: 27px;
+    border: none;
+    border-radius: 50px;
+    margin-right: 7px;
+}
+
+.nav-btn-2:hover {
+    background: white;
+    box-shadow: 0 20px 20px -10px #102d470d;
+}
+
+.tele-icon {
+    color: #4893ff;
+    margin-right: 12px;
+    vertical-align: middle;
+    font-size: 19px;
+}
+
+.medcity-btn {
+    background: #31d0c4;
+    border: none;
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 25px;
+    border-radius: 50px;
+    color: white;
+}
+
+/* Navbar style end */
+
+@media only screen and (min-width : 300px) and (max-width : 991px) {
+
+    .form-btn-1 {
+        display: none !important;
+    }
+
+    .form-btn-2 {
+        display: flex !important;
+        flex-wrap: wrap;
+    }
+
+    .toggle-flex {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .nav-flex-large {
+        display: block !important;
+        justify-content: space-between;
+    }
+
+}
+
+@media only screen and (min-width : 300px) and (max-width : 767px) {
+
+    .nav-flex-large {
+        display: block !important;
+        justify-content: space-between;
+        width: 100% !important;
+    }
+
+}
